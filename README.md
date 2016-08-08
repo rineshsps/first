@@ -1,5 +1,5 @@
 # first
-first git project 
+First git project 
 
 First file created ! 
 
